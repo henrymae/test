@@ -2,6 +2,33 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [2.10.2](https://stash.ria.ee/scm/sun/veera-components/compare/ui-2.10.1...ui-2.10.2) (2022-12-15)
+
+
+### Bug Fixes
+
+* accordion single open scroll EBS-203 STPA-204 ([35add49](https://stash.ria.ee/scm/sun/veera-components/commits/35add494d194c1109b38a218636e773d4c203b8c))
+
+
+
+## [2.10.1](https://stash.ria.ee/scm/sun/veera-components/compare/ui-2.10.0...ui-2.10.1) (2022-12-15)
+
+
+### Bug Fixes
+
+* **ui:** toc detection & current logic EBS-192 EBS-197 EBS-203 STPA-204 ([211ebd0](https://stash.ria.ee/scm/sun/veera-components/commits/211ebd0d078c3008bf8cc77e8348d00077418aad))
+
+
+
+# [2.10.0](https://stash.ria.ee/scm/sun/veera-components/compare/ui-2.9.0...ui-2.10.0) (2022-12-05)
+
+
+### Features
+
+* reorderable list | STPA-220 | EBS-114 ([359bedb](https://stash.ria.ee/scm/sun/veera-components/commits/359bedb1c3e599e2578616e6806ceca3554e488f))
+
+
+
 # [2.9.0](https://stash.ria.ee/scm/sun/veera-components/compare/ui-2.8.0...ui-2.9.0) (2022-12-01)
 
 
